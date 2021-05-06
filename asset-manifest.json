@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Dev/React/music/build/static/css/main.51a85e0e.chunk.css",
+    "main.js": "/Dev/React/music/build/static/js/main.447cee5d.chunk.js",
+    "main.js.map": "/Dev/React/music/build/static/js/main.447cee5d.chunk.js.map",
+    "runtime-main.js": "/Dev/React/music/build/static/js/runtime-main.8033a20d.js",
+    "runtime-main.js.map": "/Dev/React/music/build/static/js/runtime-main.8033a20d.js.map",
+    "static/js/2.880887fc.chunk.js": "/Dev/React/music/build/static/js/2.880887fc.chunk.js",
+    "static/js/2.880887fc.chunk.js.map": "/Dev/React/music/build/static/js/2.880887fc.chunk.js.map",
+    "static/js/3.812a4e90.chunk.js": "/Dev/React/music/build/static/js/3.812a4e90.chunk.js",
+    "static/js/3.812a4e90.chunk.js.map": "/Dev/React/music/build/static/js/3.812a4e90.chunk.js.map",
+    "index.html": "/Dev/React/music/build/index.html",
+    "static/css/main.51a85e0e.chunk.css.map": "/Dev/React/music/build/static/css/main.51a85e0e.chunk.css.map",
+    "static/js/2.880887fc.chunk.js.LICENSE.txt": "/Dev/React/music/build/static/js/2.880887fc.chunk.js.LICENSE.txt",
+    "static/media/bbuok.d4e025bd.mp3": "/Dev/React/music/build/static/media/bbuok.d4e025bd.mp3",
+    "static/media/collide.5851d797.mp3": "/Dev/React/music/build/static/media/collide.5851d797.mp3",
+    "static/media/heaven.49fcdffb.mp3": "/Dev/React/music/build/static/media/heaven.49fcdffb.mp3",
+    "static/media/runningwiththewolves.0f4ddeb2.mp3": "/Dev/React/music/build/static/media/runningwiththewolves.0f4ddeb2.mp3",
+    "static/media/thegrinch.bfafdcd5.mp3": "/Dev/React/music/build/static/media/thegrinch.bfafdcd5.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8033a20d.js",
+    "static/js/2.880887fc.chunk.js",
+    "static/css/main.51a85e0e.chunk.css",
+    "static/js/main.447cee5d.chunk.js"
+  ]
+}
